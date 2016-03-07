@@ -21,4 +21,5 @@ Initially, when the Data wrapper is deployed, the reference data set is empty an
 
 ## Authors
 
-* **Lucian Sasu**, **Dan Puiu**
+* **Lucian Sasu**
+* **Dan Puiu**
