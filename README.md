@@ -18,6 +18,8 @@ During the normal operation, when the QoI of the stream is high, the fault recov
 Initially, when the Data wrapper is deployed, the reference data set is empty and based on the normal operation (from stream quality point of view) it is extended. As a result of that, the work of the 3rd party application developer is reduced, because he does not have to collect historic data from the stream, to clean and to validate it in order to create the reference dataset. Using the API exposed by the resource management, the 3rd party application developer can turn on and off this component based on the CityPulse enabled application requirements. 
 
 
+TO BE CONTINUED..
+
 
 ## Authors
 
