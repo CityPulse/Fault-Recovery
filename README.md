@@ -10,7 +10,6 @@ The building blocks of the Fault recovery component are presented in the image b
 
 
 ![alt text](https://github.com/CityPulse/FaultRecovery/blob/master/fault_recovery_figure.png "Fault Recovery")
-<center><img src="https://github.com/CityPulse/FaultRecovery/blob/master/fault_recovery_figure.png"></center>
 
 
 During the normal operation, when the QoI of the stream is high, the fault recovery component extends the reference data set with the sequences of observations from the buffer if a similar signal pattern was not included before.
