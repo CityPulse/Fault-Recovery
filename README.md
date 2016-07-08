@@ -21,6 +21,15 @@ Initially, when the Data wrapper is deployed, the reference data set is empty an
 TO BE CONTINUED..
 
 
+## Contributers
+
+The Fault Recovery component was developed as part of the EU project CityPulse. The consortium member SIEMENS Corporate Technology Romania provided the main contributions for this component.
+
+CityPulse: http://www.ict-citypulse.eu/
+
+SIEMENS Corporate Technology Romania: http://www.siemens.ro
+
+
 ## Authors
 
 * **Lucian Sasu**
