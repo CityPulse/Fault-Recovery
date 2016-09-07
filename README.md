@@ -26,6 +26,8 @@ CityPulse: http://www.ict-citypulse.eu/
 
 SIEMENS Corporate Technology Romania: http://www.siemens.ro
 
+# Installation
+The installation instructions can be found in the Repository of the ResourceManagement: https://github.com/CityPulse/CP_Resourcemanagement
 
 ## Authors
 
